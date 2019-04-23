@@ -42,7 +42,7 @@ class Contact extends React.Component {
                         <i className="fas fa-pencil-alt"></i>
                       </span>
                     </div>
-                    <textarea className="form-control bg-dark text-white" placeholder="Name"></textarea>
+                    <textarea className="form-control bg-dark text-white" placeholder="Message"></textarea>
                   </div>
                 </div>
       

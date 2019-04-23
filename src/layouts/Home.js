@@ -8,12 +8,12 @@ class Home extends React.Component {
                 <Collapse className="collapse show" id="home" >
                     <div className="card card-body bg-primary text-white py-5">
                       <h2>Welcome To My Page</h2>
-                      <p className="lead">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil, ut!</p>
+                      <p className="lead">Hi! My name is Chakatpon Khunthong call me " Petch : ) ". I wanna be a good developer and I love music and movie.</p>
                     </div>
                       
                     <div className="card card-body py-5">
                       <h3>My Skills</h3>
-                      <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Delectus ea excepturi officia quisquam atque eos.</p>
+                      <p>I prefer to developed web application by react/redux boostrap javascript html and css.</p>
                       <hr/>
 
                       <h4>HTML 5</h4>
@@ -41,6 +41,7 @@ class Home extends React.Component {
                         <div className="progress-bar bg-success" style={{width:'80%'}}></div>
                       </div>
                     </div>
+                    
               </Collapse>
             </div>
         );

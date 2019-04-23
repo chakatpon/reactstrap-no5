@@ -20,14 +20,14 @@ class Resume extends React.Component {
                           <h4 className="card-title">Devmasters</h4>
                           <p className="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor, magnam.</p>
                           <p className="p-2 mb-3 bg-dark text-white">
-                            Position: Full Stack Developer
+                            Position: Font-end web Developer
                           </p>
                           <p className="p-2 mb-3 bg-dark text-white">
-                            Phone: (444) 444-4444
+                            Phone: (091) 079-2775
                           </p>
                         </div>
                         <div className="card-footer">
-                          <h6 className="text-muted">Dates: 2015 - 2018</h6>
+                          <h6 className="text-muted">Dates: 2015 - 2019</h6>
                         </div>
                       </div>
 

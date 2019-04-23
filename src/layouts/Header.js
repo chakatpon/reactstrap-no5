@@ -51,7 +51,7 @@ class Header extends React.Component {
                   </div>
       
                   <div className="p-4 bg-black">
-                    Experienced Full Stack Web Developer
+                    Font-end Web Developer
                   </div>
       
                   <div>

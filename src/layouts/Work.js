@@ -2,21 +2,21 @@ import React from 'react';
 
 import $ from 'jquery/dist/jquery';
 
-
-
 import 'bootstrap/dist/js/bootstrap.min';
-import 'popper.js/dist/popper.min';
-import 'ekko-lightbox/ekko-lightbox';
+import 'popper.js/dist/umd/popper';
+import 'ekko-lightbox/dist/ekko-lightbox';
+import 'ekko-lightbox/dist/ekko-lightbox.css';
+
 
 
 class Work extends React.Component {
     componentDidMount() {
-        $(document).ready(function() {
-            $(document).on('click', '[data-toggle="lightbox"]', function (e) {
-                e.preventDefault();
-                $(this).ekkoLightbox();
-              });
-        });
+        // $(document).ready(function() {
+        //     $(document).on('click', '[data-toggle="lightbox"]', function (e) {
+        //         e.preventDefault();
+        //         $(this).ekkoLightbox();
+        //       });
+        // });
     }
 
     render() {
